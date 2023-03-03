@@ -1,4 +1,4 @@
-let arr = [1, 3, 4, 5, 7, 0, "11", "sdkdkk", { type: 11 }];
+let arr = [1, 3, 4, 5, 7, 0, "11", "sdk", { type: 11 }];
 let evenNum = 0;
 let oddNum = 0;
 let zeroNum = 0;
